@@ -1,4 +1,4 @@
-eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Sun 04 Oct 2015 01:45:59 PM EDT
+eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Tue 06 Oct 2015 10:48:34 AM EDT
 #Cmp ( order = Reference )
 | C1         GRM188R61A106KE69D
 | C2         GRM188R61A106KE69D
@@ -11,6 +11,8 @@ eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Sun 04 Oct 2015 01:45:
 | C9         0402ZD475MAT2A
 | C10        GRM155R71C104KA88D
 | C11        CP1         
+| C12        GRM1555C1H300FA01J
+| C13        GRM1555C1H300FA01J
 | D1         720-LYQ396P1Q236
 | J10H-GPIO1 10PINHEADER-GPIO
 | J4H-CAN1   4PINHEADER-CAN
@@ -47,6 +49,7 @@ eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Sun 04 Oct 2015 01:45:
 | TFJ1       TJF1051T/3  
 | U1         NCP1117ST33T3G
 | USB1       USB-MICRO-CON
+| X1         ABLS-8.000MHZ-B4-T
 #End Cmp
 
 #Cmp ( order = Value )
@@ -61,6 +64,8 @@ eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Sun 04 Oct 2015 01:45:
 | 0402ZD475MAT2A C9        
 | GRM155R71C104KA88D C10       
 | CP1          C11       
+| GRM1555C1H300FA01J C12       
+| GRM1555C1H300FA01J C13       
 | 720-LYQ396P1Q236 D1        
 | 10PINHEADER-GPIO J10H-GPIO1
 | 4PINHEADER-CAN J4H-CAN1  
@@ -97,6 +102,7 @@ eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Sun 04 Oct 2015 01:45:
 | TJF1051T/3   TFJ1      
 | NCP1117ST33T3G U1        
 | USB-MICRO-CON USB1      
+| ABLS-8.000MHZ-B4-T X1        
 #End Cmp
 
 #End List
