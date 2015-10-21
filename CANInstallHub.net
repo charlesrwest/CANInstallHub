@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/charlesrwest/c++/hardware/pcbDesign/CANInstallHub/CANInstallHub.sch)
-    (date "Tue 06 Oct 2015 10:48:30 AM EDT")
+    (date "Tue 06 Oct 2015 07:31:57 PM EDT")
     (tool "eeschema (25-Oct-2014 BZR 4029)-stable"))
   (components
     (comp (ref MCU1)
@@ -125,7 +125,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 560F4C85))
     (comp (ref USB1)
-      (value USB-MICRO-CON)
+      (value 10104111-0001LF)
       (libsource (lib projectLibrary) (part USB-MICRO-CON))
       (sheetpath (names /) (tstamps /))
       (tstamp 560F5163))
@@ -235,7 +235,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 56107BFA))
     (comp (ref C11)
-      (value CP1)
+      (value UBC1E221MNS1GS)
       (libsource (lib device) (part CP1))
       (sheetpath (names /) (tstamps /))
       (tstamp 561165BF))

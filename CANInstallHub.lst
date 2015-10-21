@@ -1,4 +1,4 @@
-eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Tue 06 Oct 2015 10:48:34 AM EDT
+eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Tue 06 Oct 2015 07:05:32 PM EDT
 #Cmp ( order = Reference )
 | C1         GRM188R61A106KE69D
 | C2         GRM188R61A106KE69D
@@ -10,7 +10,7 @@ eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Tue 06 Oct 2015 10:48:
 | C8         0402ZD475MAT2A
 | C9         0402ZD475MAT2A
 | C10        GRM155R71C104KA88D
-| C11        CP1         
+| C11        UBC1E221MNS1GS
 | C12        GRM1555C1H300FA01J
 | C13        GRM1555C1H300FA01J
 | D1         720-LYQ396P1Q236
@@ -63,7 +63,7 @@ eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: Tue 06 Oct 2015 10:48:
 | 0402ZD475MAT2A C8        
 | 0402ZD475MAT2A C9        
 | GRM155R71C104KA88D C10       
-| CP1          C11       
+| UBC1E221MNS1GS C11       
 | GRM1555C1H300FA01J C12       
 | GRM1555C1H300FA01J C13       
 | 720-LYQ396P1Q236 D1        
